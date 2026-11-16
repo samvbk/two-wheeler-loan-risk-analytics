@@ -1,0 +1,5 @@
+employment_type,total_customers,defaults,default_rate_pct,avg_emi,avg_credit_score
+Student,981,421,42.92,4557.0,571.0
+Daily-Wage,2974,800,26.9,4332.0,586.0
+Self-Employed,5548,497,8.96,4159.0,626.0
+Salaried,10497,554,5.28,4180.0,636.0

@@ -1,0 +1,13 @@
+city_tier,employment_type,customers,default_rate_pct,risk_rank
+Tier-3,Student,266,44.74,1
+Tier-2,Student,429,42.66,2
+Tier-1,Student,286,41.61,3
+Tier-3,Daily-Wage,732,29.64,4
+Tier-1,Daily-Wage,877,26.23,5
+Tier-2,Daily-Wage,1365,25.86,6
+Tier-3,Self-Employed,1349,10.01,7
+Tier-2,Self-Employed,2519,9.49,8
+Tier-1,Self-Employed,1680,7.32,9
+Tier-3,Salaried,2657,5.87,10
+Tier-2,Salaried,4674,5.56,11
+Tier-1,Salaried,3166,4.36,12

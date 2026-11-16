@@ -1,0 +1,25 @@
+# Two-Wheeler Loan Risk Analytics: Default Prediction & Borrower Segmentation
+# Core Scientific & Data Processing
+numpy>=1.22.0
+pandas>=1.5.0
+scipy>=1.9.0
+
+# Database
+# Note: sqlite3 is built-in with Python standard library
+
+# Machine Learning & Explainability
+scikit-learn>=1.2.0
+lightgbm>=3.3.0
+shap>=0.41.0
+joblib>=1.2.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Web Application
+streamlit>=1.25.0
+
+# Development & Notebooks
+jupyter>=1.0.0
+ipykernel>=6.0.0

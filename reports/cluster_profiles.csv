@@ -1,0 +1,5 @@
+cluster,monthly_income,credit_score,loan_amount,emi_to_income,late_payments_last_12m,defaulted,down_payment_pct,existing_loans,n_customers,default_rate_pct,cluster_name,recommended_action
+0,40647.25,655.25,85863.0,0.1,1.07,0.02,24.14,1.03,4441,2.0,Conservative Low-LTV Borrowers,Offer pre-approved two-wheeler accessories financing & loyalty discounts. Fast-track processing.
+1,44845.72,680.01,108511.68,0.11,0.56,0.01,12.73,0.98,7348,1.0,Prime Salaried Growth Segment,"Offer premium two-wheeler loans, personal loan cross-sells, and zero-processing fee upgrades."
+2,12537.95,572.11,135051.69,0.61,3.01,0.61,15.14,1.08,1704,61.0,High-Risk Over-Leveraged,Early collections follow-up at Day 15 past due. Freeze credit line increase. Mandate co-borrower for refinancing.
+3,28798.93,546.91,94837.93,0.16,3.74,0.17,15.41,1.15,6487,17.0,Vulnerable Moderate-Risk,Cap LTV at 75%. Require post-dated cheques / e-NACH auto-debit. Intensive early payment reminders.

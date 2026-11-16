@@ -1,0 +1,5 @@
+emi_income_bucket,customers,default_rate_pct,avg_loan_amount
+Very High (>60%),649,79.51,131824.0
+High  (40-60%),851,64.98,120935.0
+Medium (20-40%),3186,11.49,116839.0
+Low   (<20%),14472,5.12,96907.0
